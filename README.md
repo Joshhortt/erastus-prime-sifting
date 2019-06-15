@@ -9,8 +9,8 @@ _version: 14/06/201_
 
 _In mathematics, the **Sieve of Eratosthenes** is a simple, **ancient algorithm** for finding all_<br/>
 _prime numbers up to any given limit_.<br/><br/>
-_Practice Arrays, looping and methods with Javascript: Given a number, write a method that returns_<br/>
-_all of the prime numbers less than that number_.
+_I use arrays, looping and methods in Javascript and JQuery_:<br/>
+_Given a number, write a method that returns all of the prime numbers less than that number_.
 
 ## Description
 _User enters a number in the input field and hits the **Display** button_.<br/>
@@ -41,7 +41,7 @@ _My email is: joshhortt@yahoo.com_
 
 ## Technologies Used
 
-* JavaScript
+* JavaScript-Vanilla
 * JQuery-3.4.0
 * Bootstrap-4
 * CSS-3
